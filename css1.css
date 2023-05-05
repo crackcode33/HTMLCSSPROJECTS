@@ -1,0 +1,48 @@
+
+
+.bgstyle{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+   
+   height: 100vh;
+}
+.heading{
+    color:aqua;
+    font-family: "Monoton";
+    font-size:20px;
+    font-style:italic;
+    text-decoration: underline;
+    
+
+}
+.p1{
+    color:white;
+    font-size: 20px;
+    font-style:normal;
+    font-weight:800;
+    text-decoration: overline;
+    
+}
+.btn1
+{
+    color:royalblue;
+    font-size:large;
+    font-style:oblique;
+    text-decoration: line-through;
+    border-width:2px;
+   border-top-left-radius: 10px;
+    border-top-right-radius: 20px;
+    border-color:red;
+    border-style:none;
+    background-color: coral;
+    
+}
+.con2{
+    padding:40px;
+    border-radius:10px;
+    border-color:blueviolet;
+    border-width: 3px;
+    border-style:dashed;
+    background-color: white;
+
+}

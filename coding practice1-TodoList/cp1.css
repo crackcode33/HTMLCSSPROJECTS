@@ -1,0 +1,47 @@
+.container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height:100vh;
+}
+.title{
+    color:white;
+    font-size:30px;
+    text-align: center;
+    font-weight: 800;
+}
+.caption
+{
+    color:white;
+    font-size:15px;
+    font-weight:100;
+    padding:20px;
+
+}
+.todo-title
+{
+    color:white;
+    font-weight: bold;
+    font-size:20px;
+}
+.todo-desc
+{
+    color:white;
+   
+
+}
+.btn{
+    background-color: orange;
+    color:white;
+    font-size: 25px;
+}
+    
+.footer
+{
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+.footer-container
+{
+    text-align: center;
+}

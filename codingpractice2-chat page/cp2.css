@@ -1,0 +1,53 @@
+.container 
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    height:100vh;
+}
+
+.title{
+    color:white;
+    font-size: 25px;
+    padding:15px;
+    text-align: center;
+    background-color: #323f4b;
+
+}
+.rahul-messages
+{
+    
+    color:white;
+    font-size:15px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: cornflowerblue;
+    text-align: right;
+    padding:10px;
+    margin:10px;
+    
+    
+   
+}
+.vara-messages 
+{
+    
+    color:white;
+    font-size:15px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color:#52606d;
+    text-align: left;
+    padding:10px;
+    margin:10px;
+    
+    
+   
+}
+.messages-container
+{
+    margin:10px;
+    
+    
+}
