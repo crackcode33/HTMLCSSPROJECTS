@@ -1,0 +1,46 @@
+
+.bg-container
+{
+    width:30vw;
+    margin:10px;
+}
+
+.image
+{
+    width:30vw;
+    margin:13px;
+
+}
+.title
+{
+    color:#183b56;
+    font-size:32px;
+    font-weight: bold;
+    padding:5px;
+}
+.desc
+{
+    
+    color:#5a7184;
+    font-size:15px;
+}
+.b1
+{
+    border-radius: 5px;
+}
+.desc2
+{
+    color:#5a7184;
+}
+.title2
+{
+    color:#183b56;
+    font-weight: bold;
+}
+.item-card
+{
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-left:30px;
+    margin-right:30px;
+}

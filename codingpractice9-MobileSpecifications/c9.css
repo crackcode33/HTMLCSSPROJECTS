@@ -1,0 +1,28 @@
+.containers
+{
+    border-width:2px;
+    border-color:black;
+    border-style:solid;
+    height:100vh;
+    width:30vw;
+    margin:10px;
+}
+.image
+{
+
+    width:30vw;
+    
+
+}
+.title
+{
+    color:black;
+    font-weight: bold;
+    font-size:23px;
+    padding:10px;
+}
+.b1
+{
+    padding-left:10px;
+    margin:13px;
+}

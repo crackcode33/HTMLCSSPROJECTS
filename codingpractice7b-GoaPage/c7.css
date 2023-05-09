@@ -1,0 +1,36 @@
+.bgcontainer
+{
+    height:30vh;
+    width:30vw;
+}
+.title
+{
+    font-size:20px;
+    font-weight:600;
+    padding-top: 5px;
+}
+.desc
+{
+    font-size:18px;
+    font-weight:300;
+
+}
+.image
+{
+    height:80px;
+    width:120px;
+}
+.c1
+{
+    height:96px;
+    width:96px;
+    border-radius:8px;
+}
+.border-styles
+{
+    border-width:3px;
+    border-color:black;
+    border-style:solid;
+    height:150vh;
+    width:30vw;
+}

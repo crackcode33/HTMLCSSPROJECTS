@@ -1,0 +1,35 @@
+.bgcontainer
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height:100vh;
+    width:30vw;
+    background-size: cover;
+    margin-bottom:40px
+    
+}
+.card
+{
+    padding:25px;
+    
+    border-top-left-radius: 16px;
+    border-top-right-radius: 30px;
+    
+    
+   
+}
+.title
+{
+    color:blueviolet;
+    font-family: "Bree Serif";
+    font-size:24px;
+}
+.b1
+{
+    color:black;
+    width:110px;
+    height:30px;
+    
+    
+    padding:5px;
+}
+

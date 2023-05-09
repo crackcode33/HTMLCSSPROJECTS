@@ -1,0 +1,31 @@
+.home-page
+{
+    text-align: center;
+    padding:15px;
+}
+
+.image
+{
+    width:20vw;
+
+}
+.title
+{
+    font-size:25px;
+    font-family: "Monoton";
+    font-weight: bold;
+
+}
+.desc
+{
+    font-size:16px;
+    font-family: "Roboto";
+    font-weight: lighter;
+}
+.img-style
+{
+    height:110px;
+    width:140px;
+    padding:10px;
+    
+}

@@ -1,0 +1,68 @@
+.bgcontainer
+{
+    background-color: white;
+    border-width:4px;
+    border-color:aquamarine;
+    border-style:solid;
+    background-size: cover;
+    height:100vh;
+    width:30vw;
+    margin-left:5px;
+}
+.card-container
+{
+    margin:10px;
+    padding:5px;
+}
+.desc
+{
+    font-size: 18px;
+    font-family: "Roboto";
+    color:black;
+    font-weight:200;
+    margin-left:15px;
+
+}
+.b1
+{
+    border-radius: 20px;
+    height:40px;
+    width:110px;
+    font-size:15px;
+    border-width:0px;
+}
+.image
+{
+    height:80px;
+    width:110px;
+}
+.card2
+{
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding:10px;
+    margin:15px;
+}
+.desc2
+{
+    font-size:15px;
+    font-weight: 200;
+}
+.sym-container
+{
+    height:80px;
+    width:85px;
+}
+.sym-text
+{
+    font-size: 15px;
+    color:white;
+
+}
+.card3
+{
+    background-color: #e12d3919;
+    padding:10px;
+    margin:12px;
+    border-radius:20px;
+}

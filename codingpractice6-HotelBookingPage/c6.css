@@ -1,0 +1,35 @@
+.bgcontainer
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height:100vh;
+    width:30vw;
+    background-size: cover;
+    
+
+}
+.card-container
+{
+    background-color:#000000e6;
+    border-radius: 20px;
+    padding:20px;
+    margin:20px;
+
+}
+.title
+{
+    color:white;
+    font-family:"Bree Serif";
+    font-size:22px;
+}
+.desc
+{
+    color:white;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.cost
+{
+    color:white;
+    font-family: "Bree Serif";
+    font-size:22px;
+}

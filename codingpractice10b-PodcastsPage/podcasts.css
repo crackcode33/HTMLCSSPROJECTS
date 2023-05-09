@@ -1,0 +1,75 @@
+.containers
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    width:50vw;
+    background-size: cover;
+    margin:20px;
+    
+}
+.title
+{
+    color:white;
+}
+.cardss
+{
+    padding:5px;
+    margin-left:18px;
+}
+.cardItem
+{
+    border-radius: 10px;
+    margin:10px;
+}
+.image
+{
+    height:110px;
+    width:120px;
+}
+.subtitle
+{
+    color:midnightblue;
+    font-size:16px;
+    padding-left:10px;
+}
+.episodes
+{
+    color:#5a7184;
+    font-size:15px;
+    padding-left:15px;
+}
+.topsection
+{
+    background-color:#151765;
+    height:30vh;
+    width:30vw;
+}
+.cardItem2
+{
+    color:white;
+    padding:8px;
+}
+.h6
+{
+    font-weight: 200;
+}
+.cardItem3
+{
+    padding-top:15px;
+    margin-bottom:20px;
+}
+.main
+{
+    font-size:20px;
+}
+.main2
+{
+    font-size:16px;
+    font-weight: 200;
+}
+.button
+{
+    text-align: center;
+    background-color: blue;
+    color:white;
+}

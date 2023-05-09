@@ -1,0 +1,85 @@
+.title
+{
+    color:white;
+    font-size:25px;
+    font-weight: bold;
+}
+.topsection
+{
+    background-color: deeppink;
+    padding:15px;
+    width:30vw;
+    margin-top:10px;
+}
+    
+.desc
+{
+    color:white;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+.image
+{
+    height:100px;
+    width:160px;
+}
+.bottomsection
+{
+    background-color: aquamarine;
+    height:100vh;
+    width:30vw;
+    
+}
+.bottomTitle
+{
+    color:black;
+    font-size:20px;
+    padding:10px;
+    font-weight: bold;
+
+}
+.cardItem
+{
+    background-color: white;
+    padding:20px;
+    border-radius: 20px;
+    margin:10px;
+    
+}
+.image2
+{
+    height:100px;
+    width:160px;
+}
+.t2
+{
+    color:black;
+    font-size:22px;
+    font-weight: 600;
+}
+.desc2
+{
+    color:black;
+    font-size:12px;
+    font-weight: 400;
+
+}
+.con2
+{
+    border-radius: 20px;
+    padding:12px;
+    
+
+}
+.image3
+{
+    height:90px;
+    width:120px;
+}
+.caption
+{
+    font-size: 12px;
+    width:90px;
+    font-weight: 600;
+
+}

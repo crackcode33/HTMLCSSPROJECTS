@@ -1,0 +1,21 @@
+.container
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.con2
+{
+    border-width: 6px;
+    padding:20px;
+    background-color: #00000080;
+    font-family: "Bree Serif";
+    color:white;
+    border-style: solid;
+    font-size: 20px;
+    border-color: #48ee59;
+    font-weight: 600;
+    
+
+}
+
